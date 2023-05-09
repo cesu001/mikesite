@@ -1,0 +1,11 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+div {
+    .carousel-left {
+        width:75%;
+        float: left;
+    }
+    .some-text {
+        float: left;
+        width: 25%;
+    }
+}
